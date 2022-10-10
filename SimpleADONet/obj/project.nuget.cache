@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJIYvSfxz4bxfozw/+txO3JKRpBsCtA2+S+7/cKTkOQHqEr1nJnpgyw2pXn8jWcFdhaSnXCxTaMKg4zwQXmgkQ==",
+  "success": true,
+  "projectFilePath": "/home/rifqi/Learning/Coding/Dotnet/SimpleADONet/SimpleADONet/SimpleADONet.csproj",
+  "expectedPackageFiles": [
+    "/home/rifqi/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.2/microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
+    "/home/rifqi/.nuget/packages/npgsql/7.0.0-rc.1/npgsql.7.0.0-rc.1.nupkg.sha512",
+    "/home/rifqi/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
